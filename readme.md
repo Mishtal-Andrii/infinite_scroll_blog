@@ -1,4 +1,5 @@
 ## Infinite Scrolling & Filter
+[DEMO LINK](https://mishtal-andrii.github.io/infinite_scroll_blog/)
 
 Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
 
